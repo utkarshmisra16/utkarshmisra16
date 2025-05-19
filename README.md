@@ -1,3 +1,13 @@
+<p style="animation: blink 1s infinite;">🚀 Welcome to my GitHub profile! 🚀</p>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
+
 # 💫 About Me:
 🔭 I’m currently working on Spring MVC and SpringBoot<br>🌱 I’m currently learning Cloud Technology<br>💬 Ask me about JAVA
 
