@@ -1,7 +1,8 @@
 # 🚀 Welcome to My GitHub Profile! 🚀
 
 **Here's an animated introduction:**
-![Animated SVG](https://raw.githubusercontent.com/utkarshmisra16/my-profile/main/animated-svg.svg)
+<img src="https://raw.githubusercontent.com/utkarshmisra16/utkarshmisra16/main/animated-svg.svg" width="300">
+
 
 # 💫 About Me:
 🔭 I’m currently working on Spring MVC and SpringBoot<br>🌱 I’m currently learning Cloud Technology<br>💬 Ask me about JAVA
