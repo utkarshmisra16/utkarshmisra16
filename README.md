@@ -1,5 +1,4 @@
-
-</style>![🚀 Welcome to my GitHub profile! 🚀](https://your-gif-url-here.com)
+<img src="your-animated-svg.svg" width="300">
 
 # 💫 About Me:
 🔭 I’m currently working on Spring MVC and SpringBoot<br>🌱 I’m currently learning Cloud Technology<br>💬 Ask me about JAVA
