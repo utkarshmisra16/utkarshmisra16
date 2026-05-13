@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile! 🚀
 # 💫 About Me:
-🔭 I’m currently working on Spring MVC and SpringBoot<br>🌱 I’m currently learning Cloud Technology<br>💬 Ask me about JAVA
+🔭 I’m currently working on ASP.net MVC and ASP.net Core MVC<br>🌱 I’m currently learning Cloud Technology<br>💬 Ask me about JAVA
 
 
 ## 🌐 Socials:
