@@ -1,0 +1,53 @@
+# ==============================================================================
+# Snake Contribution Animation — GitHub Actions workflow
+#
+# SETUP:
+#   1. Place this file at .github/workflows/snake.yml in your
+#      YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME profile repository.
+#   2. Commit and push it to the "main" branch (or run it manually from
+#      the Actions tab — "Run workflow").
+#   3. It creates an "output" branch containing the generated SVGs, which
+#      is what the "Contribution Snake" section in README.md links to.
+#   4. It re-runs automatically every day at midnight UTC to keep the
+#      animation in sync with your latest contributions.
+#
+# Uses Platane/snk — actively maintained, official GitHub Marketplace action:
+# https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
+# ==============================================================================
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+  workflow_dispatch:        # allows manual "Run workflow" trigger
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push SVGs to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "chore: update snake animation [skip ci]"
