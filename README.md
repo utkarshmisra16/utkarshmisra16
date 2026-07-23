@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Utkarsh%20Misra&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20Java&descAlignY=58&descSize=18&descColor=E6EDF3" width="100%" alt="Utkarsh Misra - Full Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Utkarsh%20Misra&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20.NET%20and%20Java&descAlignY=58&descSize=18&descColor=E6EDF3" width="100%" alt="Utkarsh Misra - Full Stack Developer"/>
 
 </div>
 
