@@ -236,13 +236,7 @@ Full Stack Developer with a solid **.NET** foundation (ASP.NET MVC / ASP.NET Cor
 -->
 
 <div align="center">
-
-### 📈 GitHub Contribution Activity
-
-<picture>
-  ...
-</picture>
-
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarshmisra16/utkarshmisra16/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarshmisra16/utkarshmisra16/output/github-contribution-grid-snake.svg" />
