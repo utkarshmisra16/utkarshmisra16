@@ -1,152 +1,43 @@
-<!-- Header with animated greeting -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+GitHub!+🚀;Full+Stack+Developer+🔥;Building+Scalable+Applications+⚡" alt="Typing SVG" />
-</div>
+<!-- ============================================================================ Utkarsh Misra — GitHub Profile README ============================================================================ BEFORE PUBLISHING — find & replace these placeholders: 1. YOUR-GITHUB-USERNAME -> your exact GitHub username (case-sensitive) 2. your.email@example.com -> your email address 3. YOUR-LINKEDIN-USERNAME -> your LinkedIn profile slug 4. your-portfolio-site.com -> your portfolio / website URL 5. YOUR-LEETCODE-USERNAME -> your LeetCode username (or delete that badge) 6. repo-one / repo-two -> your actual repository names (Featured Projects) This file only becomes your GitHub PROFILE README when it lives in a repo named EXACTLY like your username (github.com/USERNAME/USERNAME) as README.md at the repo root. The Snake Contribution section additionally needs the companion workflow file "snake.yml" (provided alongside this file) placed at: .github/workflows/snake.yml in that same repository. See the comment above that section for details. ============================================================================ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Utkarsh%20Misra&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20.NET%20Developer&descAlignY=58&descSize=18&descColor=E6EDF3" width="100%" alt="Utkarsh Misra - Full Stack .NET Developer"/> </div> <div align="center">
 
----
+Show Image
 
-## 💫 About Me
+</div> <br> <div align="center">
+🧑‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8381f-d674-4649-969f-ca108057cb04.gif" width="200" />
+I'm a Full Stack .NET Developer who enjoys turning complex requirements into clean, scalable, and maintainable web applications — from the database layer all the way up to a polished, responsive UI.
 
-```
-⚡ Passionate Full Stack Developer
-🔭 Crafting modern web applications with C# & Java
-🌱 Exploring Cloud Technologies & Microservices
-💻 Building scalable, maintainable code
-🎯 Always learning, always growing
-```
+<br>
 
-**🏢 Currently:** Building robust **ASP.NET MVC & ASP.NET Core** applications  
-**📚 Learning:** Cloud Architecture, Spring Boot, Microservices  
-**💬 Let's Chat About:** Backend Architecture, System Design, Java & C#  
-**🌍 Location:** Kanpur, India  
+🔭  Building enterprise-grade apps with ASP.NET Core & React<br> 🛠️  Comfortable across the stack — SQL Server / PostgreSQL to TypeScript UIs<br> ⚡  Writing efficient data-access code with Entity Framework & Dapper<br> 🌱  Always sharpening my skills in clean architecture & modern frontend patterns<br> 📫  Reach me at your.email@example.com
 
----
+</div> <br> <div align="center">
+🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,js,ts,jquery,bootstrap,react,tailwind,git,github&theme=dark&perline=11" alt="Tech stack icons" />
 
-## 🛠️ Tech Stack
+<br><br>
 
-<div align="center">
+Show Image Show Image Show Image Show Image Show Image <br/> Show Image Show Image Show Image Show Image Show Image <br/> Show Image Show Image Show Image Show Image Show Image
 
-### 💾 **Backend & Frameworks**
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white)
-![ASP.NET%20MVC](https://img.shields.io/badge/ASP.NET%20MVC-%23512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white)
-![ASP.NET%20Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+</div> <br> <div align="center">
+📊 GitHub Stats & Top Languages
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&bg_color=0D1117&title_color=8B5CF6&icon_color=667EEA&text_color=E6EDF3&border_color=764BA2&border_radius=12&count_private=true" width="49%" alt="Utkarsh's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&border_color=764BA2&border_radius=12&langs_count=8" width="49%" alt="Top Languages"/> </div> <br> <div align="center">
+🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&background=0D1117&border=764BA2&ring=8B5CF6&fire=667EEA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B5CF6&sideLabels=8B949E&dates=8B949E" width="80%" alt="GitHub Streak Stats"/> </div> <br> <div align="center">
+🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=dracula&column=7&margin-w=8&margin-h=8" width="90%" alt="GitHub Trophies"/> </div> <br> <div align="center">
+📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0D1117&color=8B5CF6&line=667EEA&point=E6EDF3&area=true&border_color=764BA2&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph"/> </div> <br> <div align="center">
+🚀 Featured Projects
+</div> <table width="100%"> <tr> <td width="50%" valign="top"> <h3 align="center">🔹 Project One</h3> <p align="center">One-line description of the problem this project solves and how.</p> <p align="center"> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> </p> <p align="center"> <a href="https://github.com/YOUR-GITHUB-USERNAME/repo-one"> <img src="https://img.shields.io/badge/View_Repository-667EEA?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">🔹 Project Two</h3> <p align="center">One-line description of the problem this project solves and how.</p> <p align="center"> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> </p> <p align="center"> <a href="https://github.com/YOUR-GITHUB-USERNAME/repo-two"> <img src="https://img.shields.io/badge/View_Repository-764BA2?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> </tr> </table> <br> <div align="center">
+🤝 Connect With Me
 
-### 🎨 **Frontend & Styling**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Show Image Show Image Show Image Show Image
 
-### 🗄️ **Databases & ORM**
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23007C7D.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Dapper%20ORM](https://img.shields.io/badge/Dapper%20ORM-%23512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white)
-![SQL%20Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+</div> <br> <!-- Snake Contribution Animation This section needs the companion "snake.yml" GitHub Actions workflow (provided as a separate file) committed to: .github/workflows/snake.yml It runs daily, regenerates the SVGs below, and pushes them to an "output" branch — that's what these two raw.githubusercontent.com links point to. Nothing renders until that workflow has run at least once. --> <div align="center">
+🐍 Contribution Snake
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" /> <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" width="100%"/> </picture>
 
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<sub>Generated daily via GitHub Actions — see <code>snake.yml</code> setup notes above.</sub>
 
-### 🛠️ **Tools & Utilities**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-### 📈 Stats Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarshmisra16&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-### 🔥 Contribution Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=utkarshmisra16&theme=tokyonight&hide_border=true)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshmisra16&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=utkarshmisra16&theme=tokyonight&no-frame=false&margin-w=5&margin-h=5&column=3)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **MailFlow Scheduler** | Email scheduling ASP.NET MVC application | ASP.NET MVC, SQL Server, JavaScript |
-| **GST Reconciliation Tool** | Vendor-wise GSTR reconciliation system | C#, ASP.NET, Dapper ORM, MySQL |
-| **NotificationScheduler** | Multi-channel notification scheduler | Java, Spring Boot, SQL |
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-misra-8084601b8)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarshmisra16)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-</div>
-
----
-
-## 💡 Philosophy
-
-```
-🔨 Build → 🧪 Test → 🔍 Debug → 📚 Learn → 🚀 Deploy → Repeat ♻️
-```
-
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
-
----
-
-## 📊 Profile Views & Engagement
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=utkarshmisra16&color=00D9FF&style=flat-square)
-
-### 🔥 Dev Motivation
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🎯 Let's Build Something Amazing Together!
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0503b00.gif" width="100" />
-
-**Made with ❤️ by Utkarsh Misra**
-
-</div>
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=120&section=footer&animation=fadeIn" width="100%" alt="footer wave"/>
