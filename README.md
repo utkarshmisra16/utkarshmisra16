@@ -48,7 +48,7 @@ I'm a **Full Stack .NET Developer** who enjoys turning complex requirements into
 🛠️&nbsp; Comfortable across the stack — **SQL Server / PostgreSQL** to **TypeScript** UIs<br>
 ⚡&nbsp; Writing efficient data-access code with **Entity Framework** & **Dapper**<br>
 🌱&nbsp; Always sharpening my skills in clean architecture & modern frontend patterns<br>
-📫&nbsp; Reach me at **your.email@example.com**
+📫&nbsp; Reach me at **utkarshmisra16@gmail.com**
 
 </div>
 
@@ -88,8 +88,8 @@ I'm a **Full Stack .NET Developer** who enjoys turning complex requirements into
 
 ### 📊 GitHub Stats & Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&bg_color=0D1117&title_color=8B5CF6&icon_color=667EEA&text_color=E6EDF3&border_color=764BA2&border_radius=12&count_private=true" width="49%" alt="Utkarsh's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&border_color=764BA2&border_radius=12&langs_count=8" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=utkarshmisra16&show_icons=true&bg_color=0D1117&title_color=8B5CF6&icon_color=667EEA&text_color=E6EDF3&border_color=764BA2&border_radius=12&count_private=true" width="49%" alt="Utkarsh's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshmisra16&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&border_color=764BA2&border_radius=12&langs_count=8" width="49%" alt="Top Languages"/>
 
 </div>
 
@@ -99,7 +99,7 @@ I'm a **Full Stack .NET Developer** who enjoys turning complex requirements into
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&background=0D1117&border=764BA2&ring=8B5CF6&fire=667EEA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B5CF6&sideLabels=8B949E&dates=8B949E" width="80%" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=utkarshmisra16&background=0D1117&border=764BA2&ring=8B5CF6&fire=667EEA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B5CF6&sideLabels=8B949E&dates=8B949E" width="80%" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -109,7 +109,7 @@ I'm a **Full Stack .NET Developer** who enjoys turning complex requirements into
 
 ### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=dracula&column=7&margin-w=8&margin-h=8" width="90%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=utkarshmisra16&theme=dracula&column=7&margin-w=8&margin-h=8" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -119,7 +119,7 @@ I'm a **Full Stack .NET Developer** who enjoys turning complex requirements into
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0D1117&color=8B5CF6&line=667EEA&point=E6EDF3&area=true&border_color=764BA2&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshmisra16&bg_color=0D1117&color=8B5CF6&line=667EEA&point=E6EDF3&area=true&border_color=764BA2&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -142,7 +142,7 @@ I'm a **Full Stack .NET Developer** who enjoys turning complex requirements into
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/YOUR-GITHUB-USERNAME/repo-one">
+        <a href="https://github.com/utkarshmisra16/repo-one">
           <img src="https://img.shields.io/badge/View_Repository-667EEA?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -171,7 +171,7 @@ I'm a **Full Stack .NET Developer** who enjoys turning complex requirements into
 ### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshmisra16@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-site.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE-USERNAME)
 
@@ -194,9 +194,9 @@ I'm a **Full Stack .NET Developer** who enjoys turning complex requirements into
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarshmisra16/utkarshmisra16/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarshmisra16/utkarshmisra16/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/utkarshmisra16/utkarshmisra16/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 <sub>Generated daily via GitHub Actions — see <code>snake.yml</code> setup notes above.</sub>
