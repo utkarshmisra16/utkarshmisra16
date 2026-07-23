@@ -58,7 +58,7 @@ Full Stack Developer with a solid **.NET** foundation (ASP.NET MVC / ASP.NET Cor
 📦&nbsp; Shipped **NotificationScheduler** — an ASP.NET MVC email & notification scheduler<br>
 🌱&nbsp; Currently learning **Spring Boot**, mapping every concept back to ASP.NET MVC<br>
 💼&nbsp; Open to full-stack opportunities<br>
-📫&nbsp; Reach me at **your.email@example.com**
+📫&nbsp; Reach me at **utkarshmisra16@gmail.com**
 
 </div>
 
@@ -216,8 +216,8 @@ Full Stack Developer with a solid **.NET** foundation (ASP.NET MVC / ASP.NET Cor
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-misra-8084601b8/)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshmisra16@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-site.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE-USERNAME)
 
@@ -237,7 +237,11 @@ Full Stack Developer with a solid **.NET** foundation (ASP.NET MVC / ASP.NET Cor
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 📈 GitHub Contribution Activity
+
+<picture>
+  ...
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarshmisra16/utkarshmisra16/output/github-contribution-grid-snake-dark.svg" />
@@ -245,7 +249,7 @@ Full Stack Developer with a solid **.NET** foundation (ASP.NET MVC / ASP.NET Cor
   <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/utkarshmisra16/utkarshmisra16/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>Generated on a schedule via GitHub Actions — see <code>snake.yml</code> setup notes above.</sub>
+<sub>Visual representation of my GitHub contributions.</sub>
 
 </div>
 
